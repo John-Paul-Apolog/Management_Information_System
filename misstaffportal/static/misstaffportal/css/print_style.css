@@ -1,0 +1,20 @@
+@page {
+    size: 3in 5in; /* Set the page size to 3 inches width and 5 inches height */
+    margin: 0; /* Remove default margins */
+}
+
+body {
+    margin: 0; /* Remove default body margin */
+    padding: 20px; /* Add padding to adjust content within the page */
+}
+
+/* Additional styling for your content */
+.container {
+    border: 2px solid #000; /* Add border to the container */
+    padding: 10px; /* Add padding to adjust content within the container */
+}
+
+h1 {
+    color: #000;
+    font-size: 18px;
+}
